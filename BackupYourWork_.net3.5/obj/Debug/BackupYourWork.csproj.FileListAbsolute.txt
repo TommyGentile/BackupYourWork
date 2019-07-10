@@ -1,0 +1,7 @@
+C:\Users\tgentile\Source\Repos\BackupYourWork\BackupYourWork_.net3.5\bin\Debug\BackupYourWork.exe.config
+C:\Users\tgentile\Source\Repos\BackupYourWork\BackupYourWork_.net3.5\bin\Debug\BackupYourWork.exe
+C:\Users\tgentile\Source\Repos\BackupYourWork\BackupYourWork_.net3.5\bin\Debug\BackupYourWork.pdb
+C:\Users\tgentile\Source\Repos\BackupYourWork\BackupYourWork_.net3.5\obj\Debug\BackupYourWork.csprojAssemblyReference.cache
+C:\Users\tgentile\Source\Repos\BackupYourWork\BackupYourWork_.net3.5\obj\Debug\BackupYourWork.csproj.CoreCompileInputs.cache
+C:\Users\tgentile\Source\Repos\BackupYourWork\BackupYourWork_.net3.5\obj\Debug\BackupYourWork.exe
+C:\Users\tgentile\Source\Repos\BackupYourWork\BackupYourWork_.net3.5\obj\Debug\BackupYourWork.pdb
